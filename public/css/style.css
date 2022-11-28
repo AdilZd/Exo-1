@@ -1,8 +1,31 @@
 
 
-/* Sections */
+/* Sections */ /* Exo 1 */
 
 section {
     padding-bottom: 50px;
     border-bottom: solid black 1px;
 }
+
+section:first-child h4{
+    color: blue;
+}
+
+/* Exo 2 */   /* Section 2 */ 
+
+section:nth-child(2) {
+    border-bottom: 5px solid red;
+}
+
+/* Exo 3 */  /* Section 3 */
+
+section:nth-child(3) h3{
+    color: red;
+}
+
+section:nth-child(3) li:nth-child(-n+2){
+    color: red;
+}
+
+/* Exo 4 */ /* Sec
+
