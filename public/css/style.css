@@ -35,3 +35,20 @@ section:nth-child(4) li>a{
 
 /* Exo 5 */ /* Section 5 */ 
 
+section:nth-child(5) span:last-child {
+    color: blue;
+}
+
+/* Exo 6 */ /* Section 6 */ 
+
+section:nth-child(6) img {
+    border: solid black 1px;
+    border-radius: 50% / 50%;
+}
+
+/* Exo 7 */ /* Section 7 */ 
+
+section:nth-child(7) p:hover {
+    color: green;
+}
+
