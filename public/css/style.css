@@ -27,5 +27,11 @@ section:nth-child(3) li:nth-child(-n+2){
     color: red;
 }
 
-/* Exo 4 */ /* Sec
+/* Exo 4 */ /* Section 4 */ 
+
+section:nth-child(4) li>a{
+    font-size: 25px;
+}
+
+/* Exo 5 */ /* Section 5 */ 
 
